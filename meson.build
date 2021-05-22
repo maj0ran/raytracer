@@ -13,6 +13,7 @@ add_global_arguments('-Wno-pedantic',
 		     language : 'cpp')
 
 src = ['src/main.cpp',
+       'src/ray.cpp'
       ]
 
 incdir = include_directories('include')
