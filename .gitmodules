@@ -1,0 +1,3 @@
+[submodule "subprojects/mrn-math"]
+	path = subprojects/mrn-math
+	url = https://github.com/mariankay/mrn-math.git
